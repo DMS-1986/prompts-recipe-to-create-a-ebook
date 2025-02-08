@@ -3,8 +3,7 @@
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso realizado na plataforma da DIO.
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
 <a href="https://github.com/DMS-1986/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20CSS.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
